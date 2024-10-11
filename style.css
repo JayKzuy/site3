@@ -1,11 +1,16 @@
 body {
 
     background-color: rgb(16, 17, 53);
-
+    color: aliceblue;
+    
 }
 
 footer {
 
 background-color: rgb(46, 37, 97);
 color: aliceblue;
+position: fixed;
+bottom: 0%;
+width: 100%;
 }
+
