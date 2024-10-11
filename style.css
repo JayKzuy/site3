@@ -1,10 +1,11 @@
-body{
-    background-color: #b17ad1;
+body {
+
+    background-color: rgb(16, 17, 53);
 
 }
 
-:root {
+footer {
 
-background-color: black;
-botão: #ad34;
-}color
+background-color: rgb(64, 52, 131);
+color: aliceblue;
+}
