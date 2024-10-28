@@ -1,7 +1,7 @@
 body {
 
     background-color: rgb(16, 17, 53);
-    color: aliceblue;
+    color: rgb(115, 141, 163);
     margin: 0;
     padding: 0;
     height: 100vh;
@@ -19,7 +19,7 @@ body {
 .meu-botao {
     padding: 10px 10px;
     font-size: 10px;
-    color: white;
+    color: rgb(115, 127, 153);
     background-color: blue;
     border: none;
     border-radius: 5px;
@@ -33,7 +33,7 @@ body {
 footer {
 
 background-color: rgb(46, 37, 97);
-color: aliceblue;
+color: rgb(63, 89, 112);
 position: fixed;
 bottom: 0%;
 width: 90%;
@@ -48,7 +48,7 @@ footer p{
 .meu-botao {
     padding: 10px 20px;
     font-size: 16px;
-    color: white;
+    color: rgb(85, 88, 138);
     background-color: blue;
     border: none;
     border-radius: 5px;
