@@ -13,12 +13,12 @@ body {
 
 
 .container {
-    margin-top: 20px; 
+    margin-top: 10px; 
 }
 
 .meu-botao {
-    padding: 10px 20px;
-    font-size: 16px;
+    padding: 10px 10px;
+    font-size: 10px;
     color: white;
     background-color: blue;
     border: none;
@@ -36,7 +36,7 @@ background-color: rgb(46, 37, 97);
 color: aliceblue;
 position: fixed;
 bottom: 0%;
-width: 100%;
+width: 90%;
 }
 
 footer p{
