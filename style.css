@@ -24,7 +24,6 @@ footer{
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    text-align: center;
 }
 
 .meu-botao:hover {
@@ -38,6 +37,7 @@ color: rgb(13, 23, 31);
 position: fixed;
 bottom: 0%;
 width: 90%;
+text-align: center;
 }
 
 footer p{
