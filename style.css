@@ -4,7 +4,7 @@ footer{
     color: rgb(115, 141, 163);
     margin: 0;
     padding: 0;
-    height: 100vh;
+    height: 200vh;
     display: flex;
     align-items: flex-start; 
     justify-content: center;
