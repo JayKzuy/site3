@@ -40,7 +40,7 @@ width: 90%
 }
 
 footer p{
-    
+ text-align: fixed;
  font-size: 0.9rem;
  margin-top:0.7;
 }
